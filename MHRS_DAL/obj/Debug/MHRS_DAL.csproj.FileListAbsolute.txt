@@ -1,0 +1,20 @@
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_DAL\obj\Debug\MHRS_DAL.csprojAssemblyReference.cache
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_DAL\obj\Debug\MHRS_DAL.csproj.CoreCompileInputs.cache
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_DAL\bin\Debug\MHRS_DAL.dll.config
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_DAL\bin\Debug\MHRS_DAL.dll
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_DAL\bin\Debug\MHRS_DAL.pdb
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_DAL\bin\Debug\MHRS_Entity.dll
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_DAL\bin\Debug\MHRS_Entity.pdb
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_DAL\obj\Debug\MHRS_DAL.csproj.CopyComplete
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_DAL\obj\Debug\MHRS_DAL.dll
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_DAL\obj\Debug\MHRS_DAL.pdb
+C:\Users\tuba\Desktop\MHRS\MHRS_DAL\obj\Debug\MHRS_DAL.csprojAssemblyReference.cache
+C:\Users\tuba\Desktop\MHRS\MHRS_DAL\obj\Debug\MHRS_DAL.csproj.CoreCompileInputs.cache
+C:\Users\tuba\Desktop\MHRS\MHRS_DAL\obj\Debug\MHRS_DAL.dll
+C:\Users\tuba\Desktop\MHRS\MHRS_DAL\obj\Debug\MHRS_DAL.pdb
+C:\Users\tuba\Desktop\MHRS\MHRS_DAL\bin\Debug\MHRS_DAL.dll.config
+C:\Users\tuba\Desktop\MHRS\MHRS_DAL\bin\Debug\MHRS_DAL.dll
+C:\Users\tuba\Desktop\MHRS\MHRS_DAL\bin\Debug\MHRS_DAL.pdb
+C:\Users\tuba\Desktop\MHRS\MHRS_DAL\bin\Debug\MHRS_Entity.dll
+C:\Users\tuba\Desktop\MHRS\MHRS_DAL\bin\Debug\MHRS_Entity.pdb
+C:\Users\tuba\Desktop\MHRS\MHRS_DAL\obj\Debug\MHRS_DAL.csproj.CopyComplete

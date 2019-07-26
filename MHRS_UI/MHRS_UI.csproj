@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8A02B5A4-AAE9-4F20-AF05-BEEBA467C525}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MHRS_UI</RootNamespace>
+    <AssemblyName>MHRS_UI</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAdminRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminRegister.Designer.cs">
+      <DependentUpon>frmAdminRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDoctorLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDoctorLogin.Designer.cs">
+      <DependentUpon>frmDoctorLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDoctorWorkDay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDoctorWorkDay.Designer.cs">
+      <DependentUpon>frmDoctorWorkDay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGetAnAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGetAnAppointment.Designer.cs">
+      <DependentUpon>frmGetAnAppointment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHome.Designer.cs">
+      <DependentUpon>frmHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMedicalExamination.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMedicalExamination.Designer.cs">
+      <DependentUpon>frmMedicalExamination.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPatientLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPatientLogin.Designer.cs">
+      <DependentUpon>frmPatientLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPharmacistLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPharmacistLogin.Designer.cs">
+      <DependentUpon>frmPharmacistLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPreviousAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPreviousAppointment.Designer.cs">
+      <DependentUpon>frmPreviousAppointment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegister.Designer.cs">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewPrescription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewPrescription.Designer.cs">
+      <DependentUpon>frmViewPrescription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAdminRegister.resx">
+      <DependentUpon>frmAdminRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDoctorLogin.resx">
+      <DependentUpon>frmDoctorLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDoctorWorkDay.resx">
+      <DependentUpon>frmDoctorWorkDay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGetAnAppointment.resx">
+      <DependentUpon>frmGetAnAppointment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHome.resx">
+      <DependentUpon>frmHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMedicalExamination.resx">
+      <DependentUpon>frmMedicalExamination.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPatientLogin.resx">
+      <DependentUpon>frmPatientLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPharmacistLogin.resx">
+      <DependentUpon>frmPharmacistLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPreviousAppointment.resx">
+      <DependentUpon>frmPreviousAppointment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegister.resx">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewPrescription.resx">
+      <DependentUpon>frmViewPrescription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MHRS_BLL\MHRS_BLL.csproj">
+      <Project>{3ed11d6c-789c-44bd-ad26-ba0876c31e33}</Project>
+      <Name>MHRS_BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MHRS_DTO_\MHRS_DTO_.csproj">
+      <Project>{b09857a0-e0a9-4683-b87f-07eaf5cb216b}</Project>
+      <Name>MHRS_DTO_</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MHRS_Entity\MHRS_Entity.csproj">
+      <Project>{01542499-d1ff-48cb-b0ab-7d0f66928e6c}</Project>
+      <Name>MHRS_Entity</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

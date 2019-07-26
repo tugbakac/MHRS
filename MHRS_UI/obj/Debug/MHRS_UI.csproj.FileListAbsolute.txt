@@ -1,0 +1,60 @@
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\obj\Debug\MHRS_UI.csprojAssemblyReference.cache
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\obj\Debug\MHRS_UI.frmDoctorLogin.resources
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\obj\Debug\MHRS_UI.frmGetAnAppointment.resources
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\obj\Debug\MHRS_UI.frmMedicalExamination.resources
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\obj\Debug\MHRS_UI.frmPatientLogin.resources
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\obj\Debug\MHRS_UI.frmPharmacistLogin.resources
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\obj\Debug\MHRS_UI.frmPreviousAppointment.resources
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\obj\Debug\MHRS_UI.frmRegister.resources
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\obj\Debug\MHRS_UI.frmViewPrescription.resources
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\obj\Debug\MHRS_UI.Properties.Resources.resources
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\obj\Debug\MHRS_UI.csproj.GenerateResource.cache
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\obj\Debug\MHRS_UI.csproj.CoreCompileInputs.cache
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\bin\Debug\MHRS_UI.exe.config
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\bin\Debug\MHRS_UI.exe
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\bin\Debug\MHRS_UI.pdb
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\bin\Debug\MHRS_BLL.dll
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\bin\Debug\MHRS_DTO_.dll
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\bin\Debug\MHRS_Entity.dll
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\bin\Debug\MHRS_DAL.dll
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\bin\Debug\MHRS_BLL.pdb
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\bin\Debug\MHRS_DTO_.pdb
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\bin\Debug\MHRS_Entity.pdb
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\bin\Debug\MHRS_DAL.pdb
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\bin\Debug\MHRS_DAL.dll.config
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\obj\Debug\MHRS_UI.csproj.CopyComplete
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\obj\Debug\MHRS_UI.exe
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\obj\Debug\MHRS_UI.pdb
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\obj\Debug\MHRS_UI.frmDoctorWorkDay.resources
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\obj\Debug\MHRS_UI.frmAdminRegister.resources
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\obj\Debug\MHRS_UI.csprojAssemblyReference.cache
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\obj\Debug\MHRS_UI.frmAdminRegister.resources
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\obj\Debug\MHRS_UI.frmDoctorLogin.resources
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\obj\Debug\MHRS_UI.frmDoctorWorkDay.resources
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\obj\Debug\MHRS_UI.frmGetAnAppointment.resources
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\obj\Debug\MHRS_UI.frmMedicalExamination.resources
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\obj\Debug\MHRS_UI.frmPatientLogin.resources
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\obj\Debug\MHRS_UI.frmPharmacistLogin.resources
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\obj\Debug\MHRS_UI.frmPreviousAppointment.resources
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\obj\Debug\MHRS_UI.frmRegister.resources
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\obj\Debug\MHRS_UI.frmViewPrescription.resources
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\obj\Debug\MHRS_UI.Properties.Resources.resources
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\obj\Debug\MHRS_UI.csproj.GenerateResource.cache
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\obj\Debug\MHRS_UI.csproj.CoreCompileInputs.cache
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\obj\Debug\MHRS_UI.exe
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\obj\Debug\MHRS_UI.pdb
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\bin\Debug\MHRS_UI.exe.config
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\bin\Debug\MHRS_UI.exe
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\bin\Debug\MHRS_UI.pdb
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\bin\Debug\MHRS_BLL.dll
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\bin\Debug\MHRS_DTO_.dll
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\bin\Debug\MHRS_Entity.dll
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\bin\Debug\MHRS_DAL.dll
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\bin\Debug\MHRS_BLL.pdb
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\bin\Debug\MHRS_DTO_.pdb
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\bin\Debug\MHRS_Entity.pdb
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\bin\Debug\MHRS_DAL.pdb
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\bin\Debug\MHRS_DAL.dll.config
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\obj\Debug\MHRS_UI.csproj.CopyComplete
+C:\Users\tuba\Desktop\MHRS\MHRS_UI\obj\Debug\MHRS_UI.frmHome.resources
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_UI\obj\Debug\MHRS_UI.frmHome.resources

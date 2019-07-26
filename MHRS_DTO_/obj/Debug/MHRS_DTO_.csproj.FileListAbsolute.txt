@@ -1,0 +1,11 @@
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_DTO_\bin\Debug\MHRS_DTO_.dll
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_DTO_\bin\Debug\MHRS_DTO_.pdb
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_DTO_\obj\Debug\MHRS_DTO_.csproj.CoreCompileInputs.cache
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_DTO_\obj\Debug\MHRS_DTO_.dll
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_DTO_\obj\Debug\MHRS_DTO_.pdb
+C:\Users\tuba\Desktop\MHRS\MHRS_DTO_\bin\Debug\MHRS_DTO_.dll
+C:\Users\tuba\Desktop\MHRS\MHRS_DTO_\bin\Debug\MHRS_DTO_.pdb
+C:\Users\tuba\Desktop\MHRS\MHRS_DTO_\obj\Debug\MHRS_DTO_.csprojAssemblyReference.cache
+C:\Users\tuba\Desktop\MHRS\MHRS_DTO_\obj\Debug\MHRS_DTO_.csproj.CoreCompileInputs.cache
+C:\Users\tuba\Desktop\MHRS\MHRS_DTO_\obj\Debug\MHRS_DTO_.dll
+C:\Users\tuba\Desktop\MHRS\MHRS_DTO_\obj\Debug\MHRS_DTO_.pdb

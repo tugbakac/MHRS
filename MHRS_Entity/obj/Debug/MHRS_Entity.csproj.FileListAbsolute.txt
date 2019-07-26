@@ -1,0 +1,12 @@
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_Entity\bin\Debug\MHRS_Entity.dll
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_Entity\bin\Debug\MHRS_Entity.pdb
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_Entity\obj\Debug\MHRS_Entity.csprojAssemblyReference.cache
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_Entity\obj\Debug\MHRS_Entity.csproj.CoreCompileInputs.cache
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_Entity\obj\Debug\MHRS_Entity.dll
+C:\Users\tuba\Desktop\BilgeAdam\Hafta12\Hafta12Gun5_03.05.2019(Proje MHRS)\MHRS\MHRS_Entity\obj\Debug\MHRS_Entity.pdb
+C:\Users\tuba\Desktop\MHRS\MHRS_Entity\bin\Debug\MHRS_Entity.dll
+C:\Users\tuba\Desktop\MHRS\MHRS_Entity\bin\Debug\MHRS_Entity.pdb
+C:\Users\tuba\Desktop\MHRS\MHRS_Entity\obj\Debug\MHRS_Entity.csprojAssemblyReference.cache
+C:\Users\tuba\Desktop\MHRS\MHRS_Entity\obj\Debug\MHRS_Entity.csproj.CoreCompileInputs.cache
+C:\Users\tuba\Desktop\MHRS\MHRS_Entity\obj\Debug\MHRS_Entity.dll
+C:\Users\tuba\Desktop\MHRS\MHRS_Entity\obj\Debug\MHRS_Entity.pdb
